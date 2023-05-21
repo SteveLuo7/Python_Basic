@@ -1,0 +1,4 @@
+HTTP : HyperText Transfer Protocol 超文本传输协议
+HTML : HyperText Markup Language 超文本标记语言
+
+
