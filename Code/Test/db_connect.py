@@ -1,6 +1,6 @@
 import hashlib
 
-import  pymysql
+import pymysql
 
 username = input('Please input username:')
 password = input('Please input password:')
